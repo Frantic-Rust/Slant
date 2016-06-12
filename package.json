@@ -1,0 +1,22 @@
+{
+  "name": "FranticRust",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "node-fetch": "^1.5.3",
+    "nodemon": "^1.9.2",
+    "react": "15.0.2",
+    "react-native": "^0.26.2",
+    "react-native-aws3": "0.0.1",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-vector-icons": "^2.0.3",
+    "react-refresh-control": "^2.0.5",
+    "request": "^2.72.0",
+    "rnpm": "^1.8.0"
+  }
+}
